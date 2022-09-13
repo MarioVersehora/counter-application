@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Counter from './components/Counter';
-import CounterWHook from "./components/CounterWHook";
+// import Counter from './components/Counter';
+// import Counter2 from "./components/Counter2";
+import CounterWHook from "./components/CounterWHook"
+
 
 function App() {
   return (
